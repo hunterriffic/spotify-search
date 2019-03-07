@@ -1,0 +1,109 @@
+WE YOUNG: 0eilxZjVwGfcgzzDEbcFJP
+{
+  "danceability": 0.692,
+  "energy": 0.71,
+  "key": 10,
+  "loudness": -5.64,
+  "mode": 1,
+  "speechiness": 0.0616,
+  "acousticness": 0.0861,
+  "instrumentalness": 0,
+  "liveness": 0.0478,
+  "valence": 0.681,
+  "tempo": 82.016,
+  "type": "audio_features",
+  "id": "0eilxZjVwGfcgzzDEbcFJP",
+  "uri": "spotify:track:0eilxZjVwGfcgzzDEbcFJP",
+  "track_href": "https://api.spotify.com/v1/tracks/0eilxZjVwGfcgzzDEbcFJP",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/0eilxZjVwGfcgzzDEbcFJP",
+  "duration_ms": 181162,
+  "time_signature": 4
+}
+
+SHINE: 7nkp1uuSbKkoxMvEs8cSw0
+{
+  "danceability": 0.74,
+  "energy": 0.804,
+  "key": 3,
+  "loudness": -2.187,
+  "mode": 1,
+  "speechiness": 0.0546,
+  "acousticness": 0.411,
+  "instrumentalness": 0,
+  "liveness": 0.0578,
+  "valence": 0.791,
+  "tempo": 150.013,
+  "type": "audio_features",
+  "id": "7nkp1uuSbKkoxMvEs8cSw0",
+  "uri": "spotify:track:7nkp1uuSbKkoxMvEs8cSw0",
+  "track_href": "https://api.spotify.com/v1/tracks/7nkp1uuSbKkoxMvEs8cSw0",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/7nkp1uuSbKkoxMvEs8cSw0",
+  "duration_ms": 198796,
+  "time_signature": 4
+}
+
+HOME: 5TyCTVsBsHeeutZcU2uP5s
+{
+  "danceability": 0.741,
+  "energy": 0.547,
+  "key": 9,
+  "loudness": -5.029,
+  "mode": 1,
+  "speechiness": 0.253,
+  "acousticness": 0.427,
+  "instrumentalness": 0,
+  "liveness": 0.0931,
+  "valence": 0.615,
+  "tempo": 87.977,
+  "type": "audio_features",
+  "id": "5TyCTVsBsHeeutZcU2uP5s",
+  "uri": "spotify:track:5TyCTVsBsHeeutZcU2uP5s",
+  "track_href": "https://api.spotify.com/v1/tracks/5TyCTVsBsHeeutZcU2uP5s",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/5TyCTVsBsHeeutZcU2uP5s",
+  "duration_ms": 203732,
+  "time_signature": 4
+}
+
+LOVE SCENARIO: 25aawb25AiIdfj5ctvr3Do
+{
+  "danceability": 0.806,
+  "energy": 0.707,
+  "key": 7,
+  "loudness": -4.623,
+  "mode": 1,
+  "speechiness": 0.0307,
+  "acousticness": 0.331,
+  "instrumentalness": 0,
+  "liveness": 0.294,
+  "valence": 0.746,
+  "tempo": 118.011,
+  "type": "audio_features",
+  "id": "25aawb25AiIdfj5ctvr3Do",
+  "uri": "spotify:track:25aawb25AiIdfj5ctvr3Do",
+  "track_href": "https://api.spotify.com/v1/tracks/25aawb25AiIdfj5ctvr3Do",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/25aawb25AiIdfj5ctvr3Do",
+  "duration_ms": 209648,
+  "time_signature": 4
+}
+
+HEAVEN: 64wBH2x7lTYxhwUzoS5gvt
+{
+  "danceability": 0.696,
+  "energy": 0.844,
+  "key": 5,
+  "loudness": -4.212,
+  "mode": 0,
+  "speechiness": 0.181,
+  "acousticness": 0.0348,
+  "instrumentalness": 0,
+  "liveness": 0.0882,
+  "valence": 0.761,
+  "tempo": 91.982,
+  "type": "audio_features",
+  "id": "64wBH2x7lTYxhwUzoS5gvt",
+  "uri": "spotify:track:64wBH2x7lTYxhwUzoS5gvt",
+  "track_href": "https://api.spotify.com/v1/tracks/64wBH2x7lTYxhwUzoS5gvt",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/64wBH2x7lTYxhwUzoS5gvt",
+  "duration_ms": 225823,
+  "time_signature": 4
+}
